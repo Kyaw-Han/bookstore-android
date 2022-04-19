@@ -6,7 +6,6 @@ Ryan Ritchie
 # Bookstore
 
 This is the Bookstore Android Application for Database 2 Class Project.
-Below are the list of folders in the bookstore directory and description for them.
 
 # Requirements
 - Android Studio
