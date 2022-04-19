@@ -35,7 +35,7 @@ Below are the list of folders in the bookstore directory and description for the
 
 ## Search Keywords
     titles: Harry Potter, Ultimate Guide, Guide
-    authors: Stacy Saga, John Smith, Sallie Fritz
+    authors: Stacy Saga, John Smith, Sallie Fritz, Oskar
     ISBN:  9780439655484,  9781400052929
     Genre: science, computer science, comic, philosophy
     Publisher: Crown, Nimble Books, Scholastic
